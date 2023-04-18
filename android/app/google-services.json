@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302736752616",
+    "firebase_url": "https://iotproject-4d97d-default-rtdb.firebaseio.com",
+    "project_id": "iotproject-4d97d",
+    "storage_bucket": "iotproject-4d97d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302736752616:android:37f4a6e96562a08a266e5d",
+        "android_client_info": {
+          "package_name": "com.example.vfactus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302736752616-kjdkjbfkhhst3ebdgeuqh0unjaiq4361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVtlgKHBdwSCFZxt2dmnRaOZk46LDaE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302736752616-kjdkjbfkhhst3ebdgeuqh0unjaiq4361.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302736752616-mntclcftpvso6iu61pfv2modo1sa4coe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vfactus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
